@@ -1,7 +1,7 @@
 # TESIS-ALGORITMO-TRANSFORMER-APLICACION_HIBRIDA_PARA_RESUMIR_Y_REPRESENTAR_COMENTARIOS
 
 ## ¿Cómo usar?
-
+- Definir si se desea trabajar con Español o Ingles
 - Para obtener el resumen de texto ingresamos la siguiente linea de comandos: 
 
 ```
