@@ -11,3 +11,13 @@ print(model)
 ```
 
 Nota: Recuerde que los archivos deber estar en la estructura que tienen los Recursos. 
+
+
+## Conocimiento en: 
+
+- Transformers by HuggingFace 🤗
+- Pytorch Lightning ⚡️
+- Fastt5
+
+## Tutorial:
+- https://www.youtube.com/watch?v=KMyZUIraHio&t=1011s
